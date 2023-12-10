@@ -1,0 +1,91 @@
+https://reactrouter.com/en/main/start/tutorial
+npm create vite@latest e-commerce-React-JS -- --template react
+npm install
+npm run dev
+npm install react-router-dom localforage match-sorter sort-by
+
+https://getbootstrap.com/
+npm i bootstrap@5.3.2
+
+https://react-bootstrap.netlify.app/docs/getting-started/introduction
+npm install react-bootstrap bootstrap
+
+https://www.npmjs.com/package/react-countup
+npm i react-countup
+
+https://swiperjs.com/get-started
+npm install swiper
+
+https://popper.js.org/
+npm i @popperjs/core
+
+https://icofont.com/
+<i className="icofont-info-square"></i>
+
+https://www.npmjs.com/package/react-countup
+npm i react-countup
+
+https://github.com/glennreyes/react-countup
+import CountUp from 'react-countup';
+
+https://swiperjs.com/get-started
+npm install swiper
+
+https://swiperjs.com/demos
+
+https://swiperjs.com/demos#responsive-breakpoints
+
+https://codesandbox.io/p/sandbox/f7kswt?file=%2Fsrc%2FApp.jsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -7,6 +7,8 @@ import ProductCards from './ProductCards'
 import Pagination from './Pagination'
 import Search from './Search'
 import ShopCategory from './ShopCategory'
+import PopularPost from '../home/PopularPost'
+import Tags from '../home/Tags'
 
 
 const Shop = () => {
@@ -91,6 +93,8 @@ const Shop = () => {
                   setproducts={setproducts}
                   selectedCategory={selectedCategory}
                   />
+                  <PopularPost/>
+                  <Tags/>
                 </aside>
               </div>
             </div>
